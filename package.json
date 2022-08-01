@@ -1,0 +1,22 @@
+{
+  "name": "rockwell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashi1kant/Rockwell.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shashi1kant/Rockwell/issues"
+  },
+  "homepage": "https://github.com/shashi1kant/Rockwell#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
